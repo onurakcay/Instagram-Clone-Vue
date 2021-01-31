@@ -1,9 +1,9 @@
 <template>
   <header class="header">
     <Container class="header-inner">
-      <router-link to="/" class="logo">Instagram</router-link>
+      <router-link to="/" class="logo"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px" alt=""></router-link>
       <form class="search">
-        <input type="search" name="" id="" placeholder="search" />
+        <input type="search" name="" id="" placeholder="Ara" />
       </form>
       <nav class="navigation">
         <router-link to="/">
@@ -69,6 +69,7 @@ export default {
 .logo {
   font-size: 1.6rem;
   font-weight: bold;
+  display: contents;
 }
 .search {
   text-align: center;

@@ -1,8 +1,16 @@
 <template>
   <div class="home">
     <div class="timeline">
-      <CustomText tag="h1" class="a1">Home</CustomText>
-      <Avatar :size="60"></Avatar>
+      <!-- <CustomText tag="h1" class="a1">Home</CustomText> -->
+
+      <Post />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </div>
     <div class="sidebar">
       <p>
@@ -23,14 +31,14 @@
 
 <script>
 // @ is an alias to /src
-import CustomText from "@/components/CustomText";
-import Avatar from "@/components/Avatar";
+// import CustomText from "@/components/CustomText";
+import Post from "@/components/Post";
 
 export default {
   name: "Home",
   components: {
-    CustomText,
-    Avatar,
+
+    Post,
   },
 };
 </script>

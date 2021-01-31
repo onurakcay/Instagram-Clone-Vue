@@ -11,7 +11,7 @@ export default {
     src: {
       type: String,
       default:
-        "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-19/s150x150/74479455_405159716820785_1883930487483793408_n.jpg?_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_ohc=UMAU7Ng9-vEAX8TjjUu&tp=1&oh=683b724fc0e40a97dc0018cafff499c6&oe=603F8884",
+        "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-19/s150x150/74479455_405159716820785_1883930487483793408_n.jpg?_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_ohc=UMAU7Ng9-vEAX8TjjUu&tp=1&oh=683b724fc0e40a97dc0018cafff499c6&oe=603F8884"
     },
     alt: {
       type: String,
