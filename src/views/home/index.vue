@@ -2,156 +2,7 @@
   <div class="home">
     <div class="timeline">
       <CustomText tag="h1" class="a1">Home</CustomText>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit
-        quod corrupti numquam natus tempora, deserunt aliquam exercitationem.
-        Sequi non nostrum facere dolorem voluptatem. Iusto corporis ducimus eum
-        magni excepturi!
-      </p>
+      <Avatar :size="60"></Avatar>
     </div>
     <div class="sidebar">
       <p>
@@ -173,11 +24,13 @@
 <script>
 // @ is an alias to /src
 import CustomText from "@/components/CustomText";
+import Avatar from "@/components/Avatar";
 
 export default {
   name: "Home",
   components: {
     CustomText,
+    Avatar,
   },
 };
 </script>
