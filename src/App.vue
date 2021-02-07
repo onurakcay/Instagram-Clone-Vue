@@ -20,7 +20,7 @@ export default {
 
     Container<style>
 .main{
-  padding-top: 40px;
+  padding-top: 100px;
 }
 
 </style>

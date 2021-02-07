@@ -1,7 +1,12 @@
 <template>
   <header class="header">
     <Container class="header-inner">
-      <router-link to="/" class="logo"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px" alt=""></router-link>
+      <router-link to="/" class="logo"
+        ><img
+          src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"
+          width="30px"
+          alt=""
+      /></router-link>
       <form class="search">
         <input type="search" name="" id="" placeholder="Ara" />
       </form>
@@ -54,11 +59,15 @@ export default {
 </script>
 <style scoped>
 .header {
+  position: fixed;
+  top: 0;
+  width: 100%;
   border-bottom: 1px solid rgb(var(--b6a));
   height: var(--header-height);
   display: flex;
   align-items: center;
   background-color: white;
+   
 }
 .header-inner {
   width: 100%;

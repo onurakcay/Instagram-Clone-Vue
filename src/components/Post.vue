@@ -3,9 +3,9 @@
     <!-- header -->
     <header class="header section">
       <div class="header-author">
-        <Avatar :size="40"></Avatar>
+        <Avatar :size="40" :src="profile_img"></Avatar>
         <div class="author">
-          <CustomText tag="b">onurakcay.tr</CustomText>
+          <CustomText tag="b">{{ title }}</CustomText>
           <CustomText size="xsmall">İstanbul, Turkey</CustomText>
         </div>
       </div>
@@ -17,10 +17,7 @@
     </header>
     <!-- media -->
     <div class="post-media">
-      <img
-        src="https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/e35/144758061_1283165772051371_5558420204430163817_n.jpg?_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=h07NXygR-50AX9AeTIS&tp=1&oh=e2225de5282aa0f9a61ea0e178eaefcd&oe=603EB8FC"
-        alt=""
-      />
+      <img :src="source" alt="" />
     </div>
     <!-- actions -->
     <div class="action-buttons section">
@@ -102,21 +99,37 @@ export default {
     IconSave,
     IconSmiley,
   },
+  props: {
+    source: {
+      type: String,
+      default:
+        "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/e35/144758061_1283165772051371_5558420204430163817_n.jpg?_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=h07NXygR-50AX9AeTIS&tp=1&oh=e2225de5282aa0f9a61ea0e178eaefcd&oe=603EB8FC",
+    },
+    title: {
+      type: String,
+      default: "Onur AKÇAY",
+    },
+    profile_img: {
+      type: String,
+      default:
+        "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/e35/144758061_1283165772051371_5558420204430163817_n.jpg?_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=h07NXygR-50AX9AeTIS&tp=1&oh=e2225de5282aa0f9a61ea0e178eaefcd&oe=603EB8FC",
+    },
+  },
 };
 </script>
 
 <style scoped>
-.comment-input{
-    height: 18px;
-    max-height: 80px;
-    background: 0 0;
-    border: 0;
-    outline: 0;
-    padding: 0;
-    resize: none;
-    width: 100%;
-    margin-left: 16px;
-    color: rgb(var(--i1d));
+.comment-input {
+  height: 18px;
+  max-height: 80px;
+  background: 0 0;
+  border: 0;
+  outline: 0;
+  padding: 0;
+  resize: none;
+  width: 100%;
+  margin-left: 16px;
+  color: rgb(var(--i1d));
 }
 .comment-form {
   border-top: 1px solid rgba(var(--ce3, 239, 239, 239), 1);
@@ -125,13 +138,13 @@ export default {
   display: flex;
   align-items: center;
 }
-.comment-form button{
-    border: 0;
-    color: rgba(var(--d69));
-    font-weight: 700;
-    display: inline;
-    padding: 0;
-    position: relative;
+.comment-form button {
+  border: 0;
+  color: rgba(var(--d69));
+  font-weight: 700;
+  display: inline;
+  padding: 0;
+  position: relative;
 }
 .all-comments {
   color: rgb(var(--f52));
@@ -154,6 +167,7 @@ export default {
 .post {
   border-radius: 3px;
   border: 1px solid rgb(var(--b6a));
+  margin-bottom: 60px;
 }
 .section {
   padding: 0px 16px;

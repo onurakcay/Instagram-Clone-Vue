@@ -26,7 +26,7 @@ export default {
 <style>
 .avatar {
   padding: 2px;
-  background: linear-gradient(
+  /* background: linear-gradient(
     45deg,
     #405de6,
     #5851db,
@@ -34,7 +34,7 @@ export default {
     #c13584,
     #e1306c,
     #fd1d1d
-  );
+  ); */
   border-radius: 999px;
   display: inline-flex;
 }
